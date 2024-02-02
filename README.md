@@ -1,8 +1,10 @@
-![splash screen gif](src/Recording-2024-02-02%20at%2018.38.59%20-%20APRICOT%20APHID.gif)
-
 # Terminal Splash Animation
 
-This is a Bash script that displays a splash animation when a new terminal window is opened. The animation is created using ASCII art and the script utilizes both Bash and Python.
+![splash screen gif](src/Recording-2024-02-02%20at%2018.38.59%20-%20APRICOT%20APHID.gif)
+
+## Description
+
+This is a bash script that displays a splash animation when a new terminal window is opened. The animation is created using ASCII art and the script utilizes both Bash and Python.
 
 ## Requirements
 
